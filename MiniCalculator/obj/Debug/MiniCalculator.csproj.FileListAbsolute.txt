@@ -1,0 +1,11 @@
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.exe.config
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.exe
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.pdb
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\bin\Debug\Calculation.dll
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\bin\Debug\Calculation.pdb
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.Form1.resources
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.Properties.Resources.resources
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.csproj.GenerateResource.Cache
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.exe
+C:\Users\Travelport\Desktop\csharp\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.pdb
