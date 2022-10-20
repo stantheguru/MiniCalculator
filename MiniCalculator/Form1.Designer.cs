@@ -86,9 +86,8 @@
             this.error.ForeColor = System.Drawing.SystemColors.Desktop;
             this.error.Location = new System.Drawing.Point(125, 220);
             this.error.Name = "error";
-            this.error.Size = new System.Drawing.Size(15, 13);
+            this.error.Size = new System.Drawing.Size(0, 13);
             this.error.TabIndex = 5;
-            this.error.Text = "w";
             // 
             // Form1
             // 
